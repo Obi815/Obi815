@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **ObinnaEzeka815@gmail.com**
 
-- 📄 Know about my experiences [Software Engineer (1).pdf](Software Engineer (1).pdf)
-
 - ⚡ Fun fact **I host a basketball Podcast called The BAM!**
 
 <h3 align="left">Connect with me:</h3>
