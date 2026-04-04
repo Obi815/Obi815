@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Obinna Ezeka</h1>
 <h3 align="center">Frontend developer from San Francisco who loves building clean, user-friendly interfaces</h3>
 
-- 🔭 I’m currently working on [Dose Alert](https://github.com/Obi815/doseAlert)
+- 🔭 I’m currently working on [Song Of The Day](https://github.com/Obi815/song-of-the-day-)
 
 - 🌱 I’m currently learning **JavaScript frameworks including React and Node.js, along with databases like MongoDB**
 
