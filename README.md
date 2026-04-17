@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript frameworks including React and Node.js, along with databases like MongoDB**
 
-- 👨‍💻 All of my projects are available at [obinnaezekaportfolio.netlify.app](https://obinnaezekaportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available on my  [Portfolio](https://https://obinna-portfolio.vercel.app/)
 
 - 📫 How to reach me **ObinnaEzeka815@gmail.com**
 
